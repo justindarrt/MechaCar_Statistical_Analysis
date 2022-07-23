@@ -7,7 +7,7 @@ The vehicle length, ground clearance and vehicle weight variables all have low p
 ## Summary Statistics on Suspension Coils
 ![2b](https://user-images.githubusercontent.com/103381098/180620314-4a72971e-33ef-4589-9352-66387fbf8c72.png)
 ![2a](https://user-images.githubusercontent.com/103381098/180620317-09a10404-706b-4d55-8a9b-912a04778eba.png)
-
+The average variance for all lots is roughly 62 pounds per square inch. Lot1 is respectively 0.9, lot2 7.5, and lot3 is 170. Lot3 is the only category that exceeds threshold limit of 100 and is main contributor to over lot variance of 62.
 
 ## T-Tests on Suspension Coils
 
