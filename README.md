@@ -2,11 +2,11 @@
 
 ## Linear Regression to Predict MPG
 ![1](https://user-images.githubusercontent.com/103381098/180619206-4847a0f3-1a13-46f4-b0ba-5e24b40b296d.png)
-The vechile wieght, AWD and spolier angle variables provide non random amount of variance indicating correlation to MPG. 
-The slope of the model is considered to be 0 because, ...
-The does a good job of predicting MPG for MechaCar because ...
+The vehicle length, ground clearance and vehicle weight variables all have low p-values indicating the effect is large or that the result is of major theoretical, clinical or practical importance. The slope of our model is not 0 indicating sufficient evidence to reject our null hypothesis. The p-value of our linear regression analysis is 5.35e-11, which is much smaller than our assumed significance level. The multiple linear regression model does a good job of predicting MPG for MechaCar because of its low overall p-value of 5.35e-11. this is much lower than the standard 5% and gives us extreme confidence.
 
 ## Summary Statistics on Suspension Coils
+![2b](https://user-images.githubusercontent.com/103381098/180620314-4a72971e-33ef-4589-9352-66387fbf8c72.png)
+![2a](https://user-images.githubusercontent.com/103381098/180620317-09a10404-706b-4d55-8a9b-912a04778eba.png)
 
 
 ## T-Tests on Suspension Coils
